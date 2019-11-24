@@ -1,6 +1,6 @@
 const btnSearch = document.querySelector(".btn-search");
 const url = "https://www.food2fork.com/api/search";
-const key = "3ca8d40cf79b022cc1c54279cd51be82";
+const key = "*********************************";
 const results = document.querySelector(".results");
 const input = document.querySelector("#search");
 let data = [];
